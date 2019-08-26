@@ -1,0 +1,24 @@
+dependencies: \
+  /Users/sunnytang/tangsemapps/InstalendNew/node_modules/react-native/React/Views/ScrollView/RCTScrollContentView.m \
+  /Users/sunnytang/tangsemapps/InstalendNew/node_modules/react-native/React/Views/ScrollView/RCTScrollContentView.h \
+  /Users/sunnytang/tangsemapps/InstalendNew/node_modules/react-native/React/Views/RCTView.h \
+  /Users/sunnytang/tangsemapps/InstalendNew/node_modules/react-native/React/Views/RCTBorderStyle.h \
+  /Users/sunnytang/tangsemapps/InstalendNew/node_modules/react-native/React/Views/RCTComponent.h \
+  /Users/sunnytang/tangsemapps/InstalendNew/node_modules/react-native/React/Views/RCTPointerEvents.h \
+  /Users/sunnytang/tangsemapps/InstalendNew/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/sunnytang/tangsemapps/InstalendNew/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/sunnytang/tangsemapps/InstalendNew/node_modules/react-native/React/DevSupport/RCTInspectorDevServerHelper.h \
+  /Users/sunnytang/tangsemapps/InstalendNew/node_modules/react-native/React/DevSupport/RCTPackagerConnection.h \
+  /Users/sunnytang/tangsemapps/InstalendNew/node_modules/react-native/React/Views/UIView+React.h \
+  /Users/sunnytang/tangsemapps/InstalendNew/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/sunnytang/tangsemapps/InstalendNew/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/sunnytang/tangsemapps/InstalendNew/node_modules/react-native/React/Views/ScrollView/RCTScrollView.h \
+  /Users/sunnytang/tangsemapps/InstalendNew/node_modules/react-native/React/Views/RCTAutoInsetsProtocol.h \
+  /Users/sunnytang/tangsemapps/InstalendNew/node_modules/react-native/React/Base/RCTEventDispatcher.h \
+  /Users/sunnytang/tangsemapps/InstalendNew/node_modules/react-native/React/Base/RCTBridge.h \
+  /Users/sunnytang/tangsemapps/InstalendNew/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /Users/sunnytang/tangsemapps/InstalendNew/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
+  /Users/sunnytang/tangsemapps/InstalendNew/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/sunnytang/tangsemapps/InstalendNew/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Users/sunnytang/tangsemapps/InstalendNew/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /Users/sunnytang/tangsemapps/InstalendNew/node_modules/react-native/React/Views/ScrollView/RCTScrollableProtocol.h

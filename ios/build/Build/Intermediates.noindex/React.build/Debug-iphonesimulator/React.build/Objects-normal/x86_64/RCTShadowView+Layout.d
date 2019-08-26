@@ -1,0 +1,20 @@
+dependencies: \
+  /Users/sunnytang/tangsemapps/InstalendNew/node_modules/react-native/React/Views/RCTShadowView+Layout.m \
+  /Users/sunnytang/tangsemapps/InstalendNew/node_modules/react-native/React/Views/RCTShadowView+Layout.h \
+  /Users/sunnytang/tangsemapps/InstalendNew/node_modules/react-native/React/Views/RCTShadowView.h \
+  /Users/sunnytang/tangsemapps/InstalendNew/node_modules/react-native/React/Views/RCTComponent.h \
+  /Users/sunnytang/tangsemapps/InstalendNew/node_modules/react-native/React/Views/RCTLayout.h \
+  /Users/sunnytang/tangsemapps/InstalendNew/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/sunnytang/tangsemapps/InstalendNew/node_modules/react-native/React/DevSupport/RCTInspectorDevServerHelper.h \
+  /Users/sunnytang/tangsemapps/InstalendNew/node_modules/react-native/React/DevSupport/RCTPackagerConnection.h \
+  /Users/sunnytang/tangsemapps/InstalendNew/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/sunnytang/tangsemapps/InstalendNew/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/sunnytang/tangsemapps/InstalendNew/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/sunnytang/tangsemapps/InstalendNew/node_modules/react-native/React/Base/RCTRootView.h \
+  /Users/sunnytang/tangsemapps/InstalendNew/node_modules/react-native/React/Base/RCTBridge.h \
+  /Users/sunnytang/tangsemapps/InstalendNew/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /Users/sunnytang/tangsemapps/InstalendNew/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
+  /Users/sunnytang/tangsemapps/InstalendNew/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/sunnytang/tangsemapps/InstalendNew/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Users/sunnytang/tangsemapps/InstalendNew/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /Users/sunnytang/tangsemapps/InstalendNew/node_modules/react-native/React/Base/RCTAssert.h

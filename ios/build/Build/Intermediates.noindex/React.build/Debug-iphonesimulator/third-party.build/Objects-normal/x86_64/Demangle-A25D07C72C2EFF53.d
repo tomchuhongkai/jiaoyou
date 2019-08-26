@@ -1,0 +1,24 @@
+dependencies: \
+  /Users/sunnytang/tangsemapps/InstalendNew/node_modules/react-native/third-party/folly-2018.10.22.00/folly/Demangle.cpp \
+  /Users/sunnytang/tangsemapps/InstalendNew/node_modules/react-native/React/../third-party/folly-2018.10.22.00/folly/Demangle.h \
+  /Users/sunnytang/tangsemapps/InstalendNew/node_modules/react-native/React/../third-party/folly-2018.10.22.00/folly/FBString.h \
+  /Users/sunnytang/tangsemapps/InstalendNew/node_modules/react-native/React/../third-party/folly-2018.10.22.00/folly/CppAttributes.h \
+  /Users/sunnytang/tangsemapps/InstalendNew/node_modules/react-native/React/../third-party/folly-2018.10.22.00/folly/Portability.h \
+  /Users/sunnytang/tangsemapps/InstalendNew/node_modules/react-native/React/../third-party/folly-2018.10.22.00/folly/portability/Config.h \
+  /Users/sunnytang/tangsemapps/InstalendNew/node_modules/react-native/React/../third-party/folly-2018.10.22.00/folly/CPortability.h \
+  /Users/sunnytang/tangsemapps/InstalendNew/node_modules/react-native/React/../third-party/folly-2018.10.22.00/folly/Traits.h \
+  /Users/sunnytang/tangsemapps/InstalendNew/node_modules/react-native/React/../third-party/folly-2018.10.22.00/folly/hash/Hash.h \
+  /Users/sunnytang/tangsemapps/InstalendNew/node_modules/react-native/React/../third-party/folly-2018.10.22.00/folly/Utility.h \
+  /Users/sunnytang/tangsemapps/InstalendNew/node_modules/react-native/React/../third-party/folly-2018.10.22.00/folly/functional/ApplyTuple.h \
+  /Users/sunnytang/tangsemapps/InstalendNew/node_modules/react-native/React/../third-party/folly-2018.10.22.00/folly/functional/Invoke.h \
+  /Users/sunnytang/tangsemapps/InstalendNew/node_modules/react-native/React/../third-party/folly-2018.10.22.00/folly/Preprocessor.h \
+  /Users/sunnytang/tangsemapps/InstalendNew/node_modules/react-native/React/../third-party/folly-2018.10.22.00/folly/hash/SpookyHashV1.h \
+  /Users/sunnytang/tangsemapps/InstalendNew/node_modules/react-native/React/../third-party/folly-2018.10.22.00/folly/hash/SpookyHashV2.h \
+  /Users/sunnytang/tangsemapps/InstalendNew/node_modules/react-native/React/../third-party/folly-2018.10.22.00/folly/lang/Bits.h \
+  /Users/sunnytang/tangsemapps/InstalendNew/node_modules/react-native/React/../third-party/folly-2018.10.22.00/folly/ConstexprMath.h \
+  /Users/sunnytang/tangsemapps/InstalendNew/node_modules/react-native/React/../third-party/folly-2018.10.22.00/folly/lang/Assume.h \
+  /Users/sunnytang/tangsemapps/InstalendNew/node_modules/react-native/React/../third-party/folly-2018.10.22.00/folly/portability/Builtins.h \
+  /Users/sunnytang/tangsemapps/InstalendNew/node_modules/react-native/React/../third-party/folly-2018.10.22.00/folly/lang/Exception.h \
+  /Users/sunnytang/tangsemapps/InstalendNew/node_modules/react-native/React/../third-party/folly-2018.10.22.00/folly/memory/Malloc.h \
+  /Users/sunnytang/tangsemapps/InstalendNew/node_modules/react-native/React/../third-party/folly-2018.10.22.00/folly/memory/detail/MallocImpl.h \
+  /Users/sunnytang/tangsemapps/InstalendNew/node_modules/react-native/React/../third-party/folly-2018.10.22.00/folly/detail/Demangle.h
