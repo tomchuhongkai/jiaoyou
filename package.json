@@ -16,7 +16,7 @@
     "mobx": "^5.9.0",
     "mobx-react": "^5.4.3",
     "react": "16.6.3",
-    "react-native": "0.58.5",
+    "react-native": "0.70.4",
     "react-native-masked-text": "^1.12.3",
     "react-native-modal": "^11.0.1",
     "react-native-picker": "^4.3.7",
